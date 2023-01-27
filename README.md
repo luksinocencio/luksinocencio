@@ -1,8 +1,8 @@
 ### Oieee! Eu sou o Lucas!
 
-- 🔭 Hoje eu trabalho com desenvolvimento mobile
+- 🔭 Hoje eu trabalho com desenvolvimento mobile iOS
 - 🌱 Estudando swift e kotlin
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="left">
   <a href="https://github.com/luksinocencio">
