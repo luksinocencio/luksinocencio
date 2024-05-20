@@ -1,7 +1,7 @@
 ### Oieee! Eu sou o Lucas!
 
-- 🔭 Hoje eu trabalho com desenvolvimento mobile iOS
-- 🌱 Estudando swift e kotlin
+- 🔭 Hoje eu trabalho com desenvolvimento mobile usando React Native
+- 🌱 Estudando swift, kotlin, javascript e typescript
 - 😄 Pronomes: ele/dele
 
 <div align="left">
