@@ -5,7 +5,6 @@
 - 🔭 Desenvolvimento mobile com **React Native** e **Swift**
 - 🍎 Especializado em **iOS/SwiftUI** 
 - 🌱 Apaixonado por **Swift**, **Kotlin**, **TypeScript** e **JavaScript**
-- 💼 Atualmente em **DevMeister**
 - 🇧🇷 Brasil
 - 😄 Pronomes: ele/dele
 
