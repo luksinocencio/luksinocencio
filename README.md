@@ -10,10 +10,10 @@
 
 <div align="center">
   <a href="https://github.com/luksinocencio">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=luksinocencio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide=contribs" alt="Lucas's GitHub stats"/>
+    <img width="450" src="https://github-readme-stats.vercel.app/api?username=luksinocencio&show_icons=true&include_all_commits=true&count_private=false&theme=dark" alt="Lucas's GitHub stats"/>
   </a>
   <a href="https://github.com/luksinocencio">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksinocencio&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages"/>
+    <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksinocencio&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
   </a>
 </div>
   
