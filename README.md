@@ -8,10 +8,13 @@
 - 🇧🇷 Brasil
 - 😄 Pronomes: ele/dele
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/luksinocencio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luksinocencio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksinocencio&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=luksinocencio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide=contribs" alt="Lucas's GitHub stats"/>
+  </a>
+  <a href="https://github.com/luksinocencio">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksinocencio&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages"/>
+  </a>
 </div>
   
 ### 💻 Tecnologias & Ferramentas
